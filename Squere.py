@@ -1,4 +1,4 @@
-# it si Lession 5 Chapter 12
+# it is Lesson 5 Chapter 12
 
 
 # Define a procedure, square, that takes one number
@@ -23,8 +23,8 @@ print(sum(12,15))
 # with the arrows (>>>). Lines which begin like
 # this (#>>>) are included to show the results
 # you should see when run your procedure.
+
 def square(s):
     return s * s
 
 print(square(5))
-#>>> 25
