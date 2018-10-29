@@ -27,4 +27,4 @@ print(sum(12,15))
 def square(s):
     return s * s
 
-print(square(5))
+print(square(36))
